@@ -39,9 +39,14 @@ https://www.loom.com/share/b112b9f817264b028a9664a2bd59b6a5?sid=c219d41f-2745-44
 - User-friendly video editing tools built into the app.
 - Engaging trends and challenges that foster creativity and interaction.
 
+Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
+- TrashGo! NYC is a mobile app designed to streamline waste management and recycling in New York City. The app would provide real-time trash and recycling pick-up schedules for specific neighborhoods, send notifications for changes in collection days, and offer detailed guidance on how to properly sort and dispose of items (e.g., compost, recyclables, and hazardous materials). Additionally, the app would include a "Drop-Off Finder" feature to locate nearby e-waste, textile, or compost drop-off sites and an "Eco-Score" tracker to encourage sustainable habits through gamification. Users could earn points for recycling correctly or reducing waste, which could be redeemed for discounts at local eco-friendly businesses. By combining convenience, education, and motivation, TrashGo NYC aims to reduce urban waste and encourage greener lifestyles.
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app. 
+- None.
+
 
 ## License
 
